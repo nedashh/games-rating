@@ -1,0 +1,23 @@
+{
+  "name": "game_vote_homework_num2",
+  "version": "1.0.0",
+  "description": "заготовка для второй домашней работы",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedashh/BACKEND-WEEK-2-GAME-VOTE-HOMEWORK.git"
+  },
+  "author": "datka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nedashh/BACKEND-WEEK-2-GAME-VOTE-HOMEWORK/issues"
+  },
+  "homepage": "https://github.com/nedashh/BACKEND-WEEK-2-GAME-VOTE-HOMEWORK#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
